@@ -1,79 +1,92 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/energy-banner.svg" width="100%"/>
-</div>
-
-<h1 align="center">Hi, I'm Krishna 👋</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Krishna Shrestha</h1>
 
 <p align="center">
-Computer Science Student · Full Stack Developer · ML & Embedded Systems
+  <a href="https://komarev.com/ghpvc/?username=0o-kreesna-o0">
+    <img src="https://komarev.com/ghpvc/?username=0o-kreesna-o0&label=Profile%20views&color=00FFFF&style=flat-square" alt="0o-kreesna-o0's profile views" />
+  </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/0o-kreesna-o0">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0o-kreesna-o0&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="0o-kreesna-o0's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=0o-kreesna-o0&theme=nightowl&hide_border=true&cache_seconds=86400" alt="0o-kreesna-o0's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=0o-kreesna-o0&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Krishna Shrestha's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/0o-kreesna-o0">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0o-kreesna-o0&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=0o-kreesna-o0)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishna-shrestha-6b16b7254/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://wa.me/918904008634">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>
+  <a href="mailto:krishna123shrestha.com@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> lazy
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2B5E&center=true&vCenter=true&width=650&lines=Building+with+React+%26+Python;Exploring+ML+and+Embedded+Systems;Currently+preparing+for+placements" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-## About Me
-
-- 🎓 Computer Science student at VTU
-- 💻 Working across full-stack development, machine learning, and embedded systems
-- 🌱 Currently strengthening data structures & algorithms for placement interviews
-- ⚡ Interested in building clean, scalable, real-world projects
-
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=FF2B5E)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=FF2B5E)
-![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=FF2B5E)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0f?style=for-the-badge&logo=nextdotjs&logoColor=FF2B5E)
-![C++](https://img.shields.io/badge/C++-0a0a0f?style=for-the-badge&logo=cplusplus&logoColor=FF2B5E)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=nodedotjs&logoColor=FF2B5E)
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=FF2B5E)
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=FF2B5E&icon_color=8B2FD1&text_color=ffffff&border_color=8B2FD1" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0a0a0f&stroke=8B2FD1&ring=FF2B5E&fire=FF2B5E&currStreakLabel=FF2B5E&border=8B2FD1" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=FF2B5E&text_color=ffffff&border_color=8B2FD1" width="48%"/>
-</div>
-
-<br>
-
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=8" width="90%"/>
-</div>
-
-<br>
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=FF2B5E)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=FF2B5E)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-0a0a0f?style=for-the-badge&logo=twitter&logoColor=FF2B5E)](YOUR_TWITTER_URL)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/energy-banner.svg" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
